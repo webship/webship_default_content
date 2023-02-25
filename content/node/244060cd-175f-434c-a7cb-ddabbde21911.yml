@@ -16,7 +16,7 @@ default:
       target_id: 1
   title:
     -
-      value: 'Webship.co Home'
+      value: 'Home'
   created:
     -
       value: 1675254044
