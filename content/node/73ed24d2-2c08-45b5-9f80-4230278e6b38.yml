@@ -49,7 +49,7 @@ default:
             uuid: 4a0cb58e-0777-4f2b-9028-eb7bb5a36e92
             region: content
             configuration:
-              id: 'views_block:webblogs-webblogs_list_block'
+              id: 'views_block:webblogs-block_webblogs_list'
               label: ''
               label_display: 0
               provider: views
