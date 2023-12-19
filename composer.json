@@ -1,6 +1,6 @@
 {
   "name": "drupal/webship_default_content",
-  "description": "Provides default content for webship.co site.",
+  "description": "Provides default content for Webship and the Webship.co portal site.",
   "type": "drupal-module",
   "license": "GPL-1.0-or-later",
   "minimum-stability": "dev",
@@ -22,9 +22,9 @@
     }
   },
   "require": {
-    "drupal/core": "~10.1.0",
-    "drupal/webdev": "10.0.x-dev",
-    "drupal/webpage": "10.0.x-dev",
-    "drupal/webblog": "10.0.x-dev"
+    "drupal/core": "~10.2.0",
+    "drupal/webdev": "~10.0",
+    "drupal/webpage": "~10.0",
+    "drupal/webblog": "~10.0"
   }
 }

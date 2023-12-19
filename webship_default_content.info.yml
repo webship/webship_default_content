@@ -1,8 +1,8 @@
 name: Webship Default Content
+description: Provides default content for Webship and the Webship.co portal site.
 type: module
-description: Provides default content for webship.co site.
 package: webship
-core_version_requirement: ~10.1.0
+core_version_requirement: ~10.2.0
 dependencies:
   - default_content:default_content
   - webpage:webpage
