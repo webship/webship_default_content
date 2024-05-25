@@ -22,9 +22,9 @@
     }
   },
   "require": {
-    "drupal/core": "~10.3.0",
-    "drupal/webdev": "~10.0",
-    "drupal/webpage": "~10.0",
-    "drupal/webblog": "~10.0"
+    "drupal/core": "~11.0.0",
+    "drupal/webdev": "11.0.x-dev",
+    "drupal/webpage": "11.0.x-dev",
+    "drupal/webblog": "11.0.x-dev"
   }
 }
