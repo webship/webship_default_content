@@ -4,6 +4,5 @@ type: module
 package: webship
 core_version_requirement: ~10.3.0
 dependencies:
-  - default_content:default_content
   - webpage:webpage
   - webblog:webblog
