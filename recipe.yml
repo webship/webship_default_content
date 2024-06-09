@@ -1,6 +1,3 @@
 name: Webship Default Content Recipe
 description: A recipe to manage default Webship content.
-type: install
-install:
-  - webpage
-  - webblog
+type: default_content
