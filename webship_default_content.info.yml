@@ -3,4 +3,7 @@ description: Provides default content for Webship and the Webship.co portal site
 type: module
 package: webship
 core_version_requirement: ~10.3.0
-dependencies: { }
+dependencies:
+  - default_content:default_content
+  - webpage:webpage
+  - webblog:webblog
